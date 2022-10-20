@@ -1,0 +1,148 @@
+.launch{
+
+    text-decoration: none;
+    color: #e52f37;
+}
+.launch:hover{
+    color: #e52f37;
+}
+.getstarted{
+
+    background-color: #e52f37;
+    color: white;
+    /* margin-right:40px ; */
+
+}
+
+.pad{
+    padding-top: 170px;
+}
+
+.getstarted:hover{
+background-color: white;
+color: #e52f37;;
+}
+/* .navanchor:hover{
+    color: #e52f37;
+} */
+
+.nav-link:hover{
+    color: blue;
+}
+.navbar-toggler {
+    border: 1px solid #e52f37;
+}
+
+.navbar-toggler-icon{
+
+    color:#e52f37;
+}
+
+.sec1{
+
+
+
+    width: 100%;
+    height: 100vh;
+
+    background-size: 100% 100vh ;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-image: url("./images/WhatsApp Image 2022-10-19 at 10.00.58 AM (8).jpeg");
+}
+
+.email{
+
+    width: 390px;
+    border: none;
+}
+.partners{
+
+    width:150px;
+    height: 50px;
+
+}
+
+.partnersdiv{
+    display: flex;
+    margin-top: 50px;
+
+    gap: 80px;
+    
+}
+.partnersh5{
+    width: 850px;
+}
+.what, .people, .meet, .crd{
+ background: #f1faff;;
+
+}
+
+.cardtransition{
+
+transition-duration: 0.5s;
+
+}
+.customize{
+    background-color: #f1faff;
+}
+
+.r1:focus, .r1:hover, .r1:visited{
+    background-color: white
+}
+.r2:focus, .r2:hover, .r2:visited{
+    background-color: white
+}
+.r3:focus, .r3:hover, .r3:visited{
+    background-color: white
+}
+
+
+.start{
+    margin-right: 110px;
+}
+.tr{
+    border-right: 1px solid lightgrey;
+}
+.accord{
+    border-left-color: 2px solid blue;
+}
+.c1:hover{
+  color: white;
+}
+.c1{
+    text-decoration: none;
+    color: #e52f37;
+}
+.b1:hover{
+
+    background-color:#e52f37;
+    color: white;
+}
+.fg{
+    border:2px solid white;
+}
+.fg::placeholder{
+    color: white;
+}
+.sele{
+
+
+    border: 2px solid white;
+    background-color: #e52f37;
+    color: aliceblue;
+    padding-left: 10px;
+    width: 350px;
+    margin-left: 10px;
+}
+.sel{
+    margin-right: 10px;
+}
+.contact-submit{
+    border: 2px solid white;
+
+}
+ ul >li> a:hover{
+    color: #e52f37;
+}
